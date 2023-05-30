@@ -4,3 +4,5 @@ const fun = (arg: number): string => {
 }
 
 fun(123)
+
+document.body.innerHTML=`<div>hello</div>`
